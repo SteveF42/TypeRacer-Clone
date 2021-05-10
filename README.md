@@ -11,4 +11,4 @@ clone the project and cd into the backend folder and run "npm install" to instal
 do the same with the backend folder and run "npm install"
 
 mongoDB or some database will need to be connected to in the .env file
-I'll leave a text document where it contains a bunch of text documents that will need to by typed by the user
+I'll leave a text document where it contains some text that the user will need to type out.
